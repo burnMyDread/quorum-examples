@@ -1,2 +1,2 @@
 FROM quorumengineering/tessera:0.7.3
-ADD examples/node7/ /examples/
+ADD examples/7nodes/ /examples/

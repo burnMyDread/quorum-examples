@@ -1,2 +1,2 @@
 FROM quorumengineering/quorum:2.1.1
-ADD examples/node7/ /examples/
+ADD examples/7nodes/ /examples/
